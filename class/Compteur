@@ -1,0 +1,12 @@
+<?php
+
+class Compteur
+{
+    public function incrementer()
+    {
+    }
+
+    public function recuperer()
+    {
+    }
+}
